@@ -70,4 +70,18 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## Installation and use
 
+- Backend
+  - Set your database in .env file
+  - Just run commands
+    - php artisan migrate
+    - php artisan serve
+  - If has error
+    - command composer update
+    - php artisan migrate
+    - php artisan serve
+
+- Frontend
+  - npm install
+  - npm run dev
+
 
