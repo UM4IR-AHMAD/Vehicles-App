@@ -109,7 +109,7 @@ const car = reactive({
 // this function runs when submit the form and add/update request to server
 const submitForm = async () => {
   startValidation.value = true;
-  if (isValiedRegNo.value && isValidMake.value && isValidPassword.value && isValidColor.value) {
+  if (isValidCategory.value && isValiedRegNo.value && isValidMake.value && isValidModel.value && isValidColor.value) {
     const response = route.params.id
       ? await usePutRequest('car/update', car)
       : await usePostRequest('car/add', car);
