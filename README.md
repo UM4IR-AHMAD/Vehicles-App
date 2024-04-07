@@ -25,7 +25,8 @@ Features:
     - Sorting options
       - ASC and DESC according to category name column
       - ASC and DESC according to created at column
-  - ![categories](https://github.com/UM4IR-AHMAD/Vehicles-App/assets/93633549/392fb0b7-32f2-4a1c-b9bd-c6044e44232e)
+  -![categories](https://github.com/UM4IR-AHMAD/Vehicles-App/assets/93633549/cbfd05b2-53dc-454d-a8b9-28cb3faddc5a)
+
 
   - Add new
     - Fill form with frontend validation
