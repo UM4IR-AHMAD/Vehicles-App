@@ -1,4 +1,3 @@
-![dashboard](https://github.com/UM4IR-AHMAD/Vehicles-App/assets/93633549/418e3679-8584-43cd-a8b6-a6e8da5a6da1)
 ## Vehicle App
 
 Features:
@@ -26,6 +25,8 @@ Features:
     - Sorting options
       - ASC and DESC according to category name column
       - ASC and DESC according to created at column
+  - ![categories](https://github.com/UM4IR-AHMAD/Vehicles-App/assets/93633549/392fb0b7-32f2-4a1c-b9bd-c6044e44232e)
+
   - Add new
     - Fill form with frontend validation
     - Backend validation to check category not already added
