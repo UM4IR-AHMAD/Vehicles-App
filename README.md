@@ -1,9 +1,9 @@
-
+![dashboard](https://github.com/UM4IR-AHMAD/Vehicles-App/assets/93633549/418e3679-8584-43cd-a8b6-a6e8da5a6da1)
 ## Vehicle App
 
 Features:
 
-- Authetiation.
+- Authentication.
   - Signup
     - Fill form with frontend validation
     - Send signup to backend(API)
@@ -19,10 +19,11 @@ Features:
     - Set guest user
 - Dashboard.
   -  Show total number of cars
+  -  ![dashboard](https://github.com/UM4IR-AHMAD/Vehicles-App/assets/93633549/864cf404-2025-49a3-82bc-01e3e930220e)
 - Category.
-  - Table of category data
+  - Table of categories data
     - Show 2 category per page and can get any page data
-    - Sorting option
+    - Sorting options
       - ASC and DESC according to category name column
       - ASC and DESC according to created at column
   - Add new
@@ -34,21 +35,22 @@ Features:
     - Update category
   - Delete
     - Delete category
-- Category.
-  - Table of category data
-    - Show 2 category per page and can get any page data
-    - Sorting option
-      - ASC and DESC according to category name column
+- Car.
+  - Table of cars data
+    - Show 2 cars per page and can get any page data
+    - Sorting options
+      - ASC and DESC according to car category name column
+      - ASC and DESC according to car make column
       - ASC and DESC according to created at column
   - Add new
     - Fill form with frontend validation
-    - Backend validation to check category not already added
-    - Add new category
+    - Backend validation to check car registration number not already used
+    - Add new car
   - Update
     - Fill from with frontend and backend validation
-    - Update category
+    - Update car
   - Delete
-    - Delete category
+    - Delete car
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Learning Laravel
