@@ -1,4 +1,4 @@
-Vechicle APP
+Vehicle APP
 
 Features
  - Authentication
